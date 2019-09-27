@@ -9,8 +9,8 @@ Android studio(Java, XML), Firebase, Javascript.
 
 https://www.youtube.com/watch?v=Zb2UFx2z49E
 
-<br><br>Links :
+Links :
 
-<br>Website - https://bit.ly/linkonpc
+Website - https://bit.ly/linkonpc
 <br>Android app - https://play.google.com/store/apps/details?id=com.prathameshshiralkar.linkonpc
 <br>Chrome store - https://chrome.google.com/webstore/detail/open-link-on-pc/bdnfnkhfbgepokkkkbookefhdfibpnbc
